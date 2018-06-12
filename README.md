@@ -13,3 +13,6 @@ Setup:
 4. Install tomcat
 5. Deploy the WAR file https://www.dropbox.com/s/rz7ywgclv42jxlf/aplenty.war?dl=0
 6. Run http://localhost:8080/aplenty/
+
+Video:
+https://youtu.be/XLl4CmCTTWY
